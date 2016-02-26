@@ -1,5 +1,3 @@
-//package bbc.gameoflifestub;
-
 import java.util.HashSet;
 import org.junit.Test;
 import static org.junit.Assert.*;

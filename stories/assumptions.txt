@@ -1,0 +1,7 @@
+Assumptions:
+
+1. (Given) All inputs are valid (non-empty, valid characters and balanced lines)
+2. (Given) Input is a square grid, i.e. it has an equal number of rows and columns
+3. User will input the initial state directly into the console
+4. User will want the game to advance one turn at a time and the console to print the state of the live cells at the end of each turn
+5. User will want the game to continue until they specify to exit the program
